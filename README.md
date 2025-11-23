@@ -1,136 +1,95 @@
-# Moisés Santos
-
 <div align="center">
-  
-**Electrical Engineering Student | UFCG**
 
-Research & Development in Photonics, Power Electronics, and Web Systems
+# 🔬 Moisés
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
-[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat&logo=ieee&logoColor=white)](https://ieee.org)
+**⚡ Graduando em Engenharia Elétrica | UFCG**
+
+`Pesquisa e Desenvolvimento` • `Fotônica` • `Eletrônica de Potência` • `Sistemas Web`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
 
 </div>
 
 ---
 
-## About
+## 👨‍🎓 Sobre
 
-Electrical Engineering undergraduate at the Federal University of Campina Grande (UFCG), with research experience in photonics, power electronics, and radioastronomy. Strong background in web development, embedded systems, and signal processing applications.
+Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Grande (UFCG)**, com experiência em pesquisa científica nas áreas de **fotônica**, **eletrônica de potência** e **radioastronomia**. Atuação em desenvolvimento web, sistemas embarcados e processamento de sinais.
 
-**Research Areas:**
-- Photonics & Optical Communications
-- Power Electronics & DC-DC Converters
-- Radioastronomy & Signal Processing
-- Web Development & Data Visualization
+> 💡 **Áreas de Pesquisa:** Fotônica • Eletrônica de Potência • Radioastronomia • Desenvolvimento Web
 
 ---
 
-## Professional Experience
+## 💼 Experiência
 
-### Research & Development
+### Atuação Atual
 
-**Web Developer** | IEEE Photonics Chapter UFCG | *Current*
-- Responsible for development and maintenance of the chapter's institutional website
-- Implementation of responsive design and interactive content delivery
+**Desenvolvedor Web** | IEEE Fotônica UFCG
+- Desenvolvimento e manutenção do site institucional do capítulo
 
-**Undergraduate Researcher (PIBIC)** | Power Electronics Lab | *Current*
-- Research on DC-DC converters with reduced switching topology
-- Analysis and optimization of power conversion systems
+**Pesquisador PIBIC** | Laboratório de Eletrônica de Potência
+- Pesquisa em conversores CC-CC com topologia de chaveamento reduzido
 
-**Undergraduate Researcher (PIBIC)** | Embedded Systems Lab | *Previous*
-- Development of automated object identification and image capture system
-- Implementation using microcontroller-based architecture
+### Atuações Anteriores
 
-**Extension Project Researcher** | BINGO Radiotelescope | *Previous*
-- Antenna fabrication for neutral hydrogen detection
-- Contribution to radioastronomy instrumentation development
+**Pesquisador PIBIC** | Laboratório de Sistemas Embarcados
+- Sistema automatizado de identificação de objetos com microcontroladores
 
-### Leadership & Outreach
+**Bolsista** | Projeto de Extensão BINGO (Radioastronomia)
+- Fabricação de antenas para detecção de hidrogênio neutro
 
-**Activity Coordinator** | IEEE Robotics and Automation Society (RAS) | *6 months*
-- Coordination of technical activities and member engagement initiatives
+**Coordenador de Atividades** | IEEE RAS | 6 meses
 
-**Workshop Instructor** | Computer Vision | VII Elas por Elas Event
-- Delivered hands-on workshop on computer vision fundamentals and applications
+**Instrutor** | Workshop de Visão Computacional (VII Elas por Elas)
 
-**Course Instructor** | GNU Radio Introduction | Public Schools Outreach
-- Taught introductory course on software-defined radio to high school students
+**Instrutor** | Minicurso de GNU Radio para escolas públicas
 
 ---
 
-## Technical Skills
-
-**Programming Languages**
-- Python (NumPy, SciPy, Matplotlib, Tkinter)
-- JavaScript (Plotly.js, Three.js)
-- HTML/CSS
-
-**Tools & Frameworks**
-- GNU Radio (Software-Defined Radio)
-- Scientific Computing (NumPy, SciPy)
-- Data Visualization (Matplotlib, Plotly, Three.js)
-- Embedded Systems Programming
-
-**Research Competencies**
-- Signal Processing
-- Power Electronics Design
-- Optical Systems
-- Web Application Development
-
----
-
-## Selected Projects
-
-### Systems & Applications
-**Condominium Leisure Area Management**
-- Access control and management system
-- Technologies: Python
-- [View Repository →](#)
-
-**Discrete Signal Plotter**
-- Interactive signal visualization tool
-- Technologies: HTML, Plotly.js
-- [View Repository →](#)
-
-### Mathematical Visualizations
-**3D Complex Exponentials**
-- Interactive 3D visualization of complex mathematical functions
-- Technologies: HTML, Three.js
-- [View Repository →](#)
-
-**Continuous-Time Convolution**
-- Educational application for convolution operations
-- Technologies: Python, Tkinter
-- [View Repository →](#)
-
-**Function Orthogonality Studies**
-- Mathematical analysis tools
-- Technologies: Python
-- [View Repository →](#)
-
-**Complex Linear Systems Solver**
-- Phasor visualization for complex systems
-- Technologies: HTML, JavaScript
-- [View Repository →](#)
-
----
-
-## GitHub Statistics
+## 🛠️ Competências Técnicas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Confuso01&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=2C3E50&icon_color=3498DB&text_color=2C3E50"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confuso01&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=2C3E50&text_color=2C3E50"/>
+
+### 💻 Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📚 Bibliotecas & Ferramentas
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![GNU Radio](https://img.shields.io/badge/GNU_Radio-0A0A0A?style=for-the-badge)
+
 </div>
 
 ---
 
-## Publications & Presentations
+## 📊 Estatísticas GitHub
 
-*Research publications and conference presentations available upon request.*
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Confuso01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F7DF1E&icon_color=3776AB&text_color=c9d1d9&border_color=E34F26"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confuso01&layout=compact&langs_count=6&theme=radical&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&border_color=E34F26"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Confuso01&theme=radical&background=0d1117&ring=F7DF1E&fire=E34F26&currStreakLabel=3776AB" alt="GitHub Streak" />
+</div>
 
 ---
 
 <div align="center">
-  <sub>Federal University of Campina Grande | Electrical Engineering Department</sub>
+
+### 🎓 Universidade Federal de Campina Grande
+**Departamento de Engenharia Elétrica**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Confuso01&color=F7DF1E&style=for-the-badge)
+
 </div>
