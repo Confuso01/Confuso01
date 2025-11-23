@@ -1,7 +1,10 @@
 <div align="center">
+
 ### ⚡ Moisés | Engenharia Elétrica - UFCG
+
 [![Lattes](https://img.shields.io/badge/Lattes-00629B?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/9183690178419084)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moises.diego@estudante.ufcg.edu.br)
+
 </div>
 
 ---
@@ -39,16 +42,3 @@
 ![Views](https://komarev.com/ghpvc/?username=Confuso01&color=F7DF1E&style=flat)
 
 </div>
-```
-
-**Principais correções:**
-
-1. **Adicionei o badge de C++** com o logo correto (`cplusplus`)
-2. **Adicionei linhas vazias** dentro do `<div>` dos badges para o Markdown renderizar corretamente
-3. **Mantive a sintaxe Markdown** para os badges (que funciona dentro de divs com espaçamento adequado)
-
-Se ainda não aparecer o C++, verifique se a API do GitHub está detectando seus repositórios C++. Você pode forçar a detecção adicionando um arquivo `.gitattributes` no seu repositório:
-```
-*.cpp linguist-detectable=true
-*.h linguist-detectable=true
-*.hpp linguist-detectable=true
