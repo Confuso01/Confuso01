@@ -16,9 +16,9 @@
 
 ## 👨‍🎓 Sobre
 
-Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Grande (UFCG)**, com experiência em pesquisa científica nas áreas de **fotônica**, **eletrônica de potência** e **radioastronomia**. Atuação em desenvolvimento web, sistemas embarcados e processamento de sinais.
+Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Grande (UFCG)**, com experiência em pesquisa científica nas áreas de **eletrônica de potência**, **radioastronomia** e **visão computacional**. Atuação em desenvolvimento web, sistemas embarcados e processamento de sinais.
 
-> 💡 **Áreas de Pesquisa:** Fotônica • Eletrônica de Potência • Radioastronomia • Desenvolvimento Web
+> 💡 **Áreas de Pesquisa:** Eletrônica de Potência • Radioastronomia • Visão Computacional
 
 ---
 
@@ -34,7 +34,7 @@ Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Gra
 
 ### Atuações Anteriores
 
-**Pesquisador PIBIC** | Laboratório de Sistemas Embarcados
+**Pesquisador PIBIC** | Laboratório de Sistemas REEGE
 - Sistema automatizado de identificação de objetos com microcontroladores
 
 **Bolsista** | Projeto de Extensão BINGO (Radioastronomia)
@@ -42,9 +42,22 @@ Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Gra
 
 **Coordenador de Atividades** | IEEE RAS | 6 meses
 
-**Instrutor** | Workshop de Visão Computacional (VII Elas por Elas)
+**Ministrou** | Workshop de Visão Computacional (VII Elas por Elas)
 
-**Instrutor** | Minicurso de GNU Radio para escolas públicas
+**Ministrou** | Minicurso de GNU Radio para escolas públicas
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Confuso01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F7DF1E&icon_color=3776AB&text_color=c9d1d9&border_color=E34F26"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confuso01&layout=compact&langs_count=6&theme=radical&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&border_color=E34F26"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Confuso01&theme=radical&background=0d1117&ring=F7DF1E&fire=E34F26&currStreakLabel=3776AB" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -68,19 +81,6 @@ Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Gra
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![GNU Radio](https://img.shields.io/badge/GNU_Radio-0A0A0A?style=for-the-badge)
 
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Confuso01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F7DF1E&icon_color=3776AB&text_color=c9d1d9&border_color=E34F26"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confuso01&layout=compact&langs_count=6&theme=radical&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&border_color=E34F26"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Confuso01&theme=radical&background=0d1117&ring=F7DF1E&fire=E34F26&currStreakLabel=3776AB" alt="GitHub Streak" />
 </div>
 
 ---
