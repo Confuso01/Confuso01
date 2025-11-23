@@ -13,16 +13,12 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Confuso01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F7DF1E&icon_color=3776AB&text_color=c9d1d9&border_color=E34F26&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confuso01&layout=compact&langs_count=5&theme=radical&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&border_color=E34F26&hide_border=true"/>
 </div>
-
----
-
-## 🛠️ Tecnologias
 
 <div align="center">
 
