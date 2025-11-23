@@ -20,33 +20,6 @@ Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Gra
 
 > 💡 **Áreas de Pesquisa:** Eletrônica de Potência • Radioastronomia • Visão Computacional
 
----
-
-## 💼 Experiência
-
-### Atuação Atual
-
-**Desenvolvedor Web** | IEEE Fotônica UFCG
-- Desenvolvimento e manutenção do site institucional do capítulo
-
-**Pesquisador PIBIC** | Laboratório de Eletrônica de Potência
-- Pesquisa em conversores CC-CC com topologia de chaveamento reduzido
-
-### Atuações Anteriores
-
-**Pesquisador PIBIC** | Laboratório de Sistemas REEGE
-- Sistema automatizado de identificação de objetos com microcontroladores
-
-**Bolsista** | Projeto de Extensão BINGO (Radioastronomia)
-- Fabricação de antenas para detecção de hidrogênio neutro
-
-**Coordenador de Atividades** | IEEE RAS | 6 meses
-
-**Ministrou** | Workshop de Visão Computacional (VII Elas por Elas)
-
-**Ministrou** | Minicurso de GNU Radio para escolas públicas
-
----
 
 ## 📊 Estatísticas GitHub
 
